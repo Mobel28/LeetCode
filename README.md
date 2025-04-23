@@ -25,9 +25,11 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0020-valid-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0020-valid-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
