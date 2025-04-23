@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mobel28/LeetCode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Mobel28/LeetCode/tree/master/0048-rotate-image) |
+| [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,5 +34,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
