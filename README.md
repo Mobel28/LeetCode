@@ -33,6 +33,7 @@
 | [0020-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0020-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/Mobel28/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2470-removing-stars-from-a-string](https://github.com/Mobel28/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -41,10 +42,12 @@
 | [1666-make-the-string-great](https://github.com/Mobel28/LeetCode/tree/master/1666-make-the-string-great) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2470-removing-stars-from-a-string](https://github.com/Mobel28/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
+| [2470-removing-stars-from-a-string](https://github.com/Mobel28/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
