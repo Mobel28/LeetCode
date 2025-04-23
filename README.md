@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Mobel28/LeetCode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Mobel28/LeetCode/tree/master/0048-rotate-image) |
 | [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
@@ -37,9 +39,18 @@
 | [0020-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
 | [1666-make-the-string-great](https://github.com/Mobel28/LeetCode/tree/master/1666-make-the-string-great) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
+## Binary Search
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
