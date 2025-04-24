@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mobel28/LeetCode/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1500-count-largest-group](https://github.com/Mobel28/LeetCode/tree/master/1500-count-largest-group) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mobel28/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
@@ -37,6 +38,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1666-make-the-string-great](https://github.com/Mobel28/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Mobel28/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -82,5 +84,10 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mobel28/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
