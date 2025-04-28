@@ -43,6 +43,7 @@
 | [0234-palindrome-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mobel28/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0206-reverse-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mobel28/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mobel28/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
