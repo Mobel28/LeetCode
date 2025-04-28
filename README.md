@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Mobel28/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mobel28/LeetCode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Mobel28/LeetCode/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/Mobel28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mobel28/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1580-shuffle-the-array](https://github.com/Mobel28/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -40,6 +41,7 @@
 | [0011-container-with-most-water](https://github.com/Mobel28/LeetCode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Mobel28/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Mobel28/LeetCode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Mobel28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -88,6 +90,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Mobel28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mobel28/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Bit Manipulation
 |  |
