@@ -142,11 +142,13 @@
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Mobel28/LeetCode/tree/master/0112-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Mobel28/LeetCode/tree/master/0112-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
@@ -157,10 +159,12 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Mobel28/LeetCode/tree/master/0112-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Mobel28/LeetCode/tree/master/0112-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
