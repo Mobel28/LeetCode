@@ -137,4 +137,20 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
