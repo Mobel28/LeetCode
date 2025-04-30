@@ -46,6 +46,7 @@
 | [0061-rotate-list](https://github.com/Mobel28/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Mobel28/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Mobel28/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Mobel28/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mobel28/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Mobel28/LeetCode/tree/master/0148-sort-list) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mobel28/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Bit Manipulation
 |  |
@@ -133,6 +135,7 @@
 | [0061-rotate-list](https://github.com/Mobel28/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mobel28/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Mobel28/LeetCode/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/Mobel28/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -174,5 +177,10 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Mobel28/LeetCode/tree/master/0148-sort-list) |
 | [1873-longest-nice-substring](https://github.com/Mobel28/LeetCode/tree/master/1873-longest-nice-substring) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Mobel28/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
