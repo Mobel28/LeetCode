@@ -75,6 +75,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
 | [1666-make-the-string-great](https://github.com/Mobel28/LeetCode/tree/master/1666-make-the-string-great) |
@@ -148,6 +149,7 @@
 | [0061-rotate-list](https://github.com/Mobel28/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mobel28/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Mobel28/LeetCode/tree/master/0086-partition-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/Mobel28/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -163,12 +165,14 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Mobel28/LeetCode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Mobel28/LeetCode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
@@ -180,6 +184,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Mobel28/LeetCode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
