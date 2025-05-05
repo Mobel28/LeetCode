@@ -38,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Mobel28/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Mobel28/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Mobel28/LeetCode/tree/master/0070-climbing-stairs) |
 | [0968-beautiful-array](https://github.com/Mobel28/LeetCode/tree/master/0968-beautiful-array) |
