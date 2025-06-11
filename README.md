@@ -84,6 +84,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Mobel28/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mobel28/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mobel28/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -159,10 +160,12 @@
 | [1873-longest-nice-substring](https://github.com/Mobel28/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mobel28/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mobel28/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mobel28/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2915-count-of-interesting-subarrays](https://github.com/Mobel28/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mobel28/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -230,4 +233,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mobel28/LeetCode/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mobel28/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
