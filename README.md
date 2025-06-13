@@ -25,6 +25,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mobel28/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mobel28/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Mobel28/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mobel28/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Mobel28/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mobel28/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -115,6 +116,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mobel28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mobel28/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Mobel28/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mobel28/LeetCode/tree/master/0011-container-with-most-water) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Mobel28/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
 | ------- |
