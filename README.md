@@ -20,6 +20,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mobel28/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Mobel28/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Mobel28/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mobel28/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Mobel28/LeetCode/tree/master/0792-binary-search) |
 | [0968-beautiful-array](https://github.com/Mobel28/LeetCode/tree/master/0968-beautiful-array) |
@@ -119,6 +120,7 @@
 | [0268-missing-number](https://github.com/Mobel28/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mobel28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mobel28/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Mobel28/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Mobel28/LeetCode/tree/master/0792-binary-search) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Mobel28/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
