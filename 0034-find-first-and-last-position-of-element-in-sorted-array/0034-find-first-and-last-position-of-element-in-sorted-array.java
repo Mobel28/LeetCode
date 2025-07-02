@@ -1,10 +1,10 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int first=ffind(nums,target);
-        int last=lfind(nums,target);
-        return new int[]{first,last};
+      int first=ffind(nums,target);
+      int last=lfind(nums,target);
+      return new int[]{first,last};
     }
-    public int ffind(int [] nums,int target){
+    public int ffind(int[] nums,int target){
         int l=0;
         int r=nums.length-1;
         int res=-1;
@@ -23,7 +23,7 @@ class Solution {
         }
         return res;
     }
-     public int lfind(int [] nums,int target){
+    public int lfind(int[] nums,int target){
         int l=0;
         int r=nums.length-1;
         int res=-1;
