@@ -60,6 +60,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mobel28/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/Mobel28/LeetCode/tree/master/1500-count-largest-group) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mobel28/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mobel28/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [1873-longest-nice-substring](https://github.com/Mobel28/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mobel28/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mobel28/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mobel28/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Counting
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | [0206-reverse-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mobel28/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mobel28/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Tree
 |  |
 | ------- |
