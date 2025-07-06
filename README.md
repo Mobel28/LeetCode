@@ -27,6 +27,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mobel28/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1580-shuffle-the-array](https://github.com/Mobel28/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Mobel28/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mobel28/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mobel28/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Mobel28/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -45,6 +46,7 @@
 | [0697-degree-of-an-array](https://github.com/Mobel28/LeetCode/tree/master/0697-degree-of-an-array) |
 | [1500-count-largest-group](https://github.com/Mobel28/LeetCode/tree/master/1500-count-largest-group) |
 | [1873-longest-nice-substring](https://github.com/Mobel28/LeetCode/tree/master/1873-longest-nice-substring) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Mobel28/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mobel28/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mobel28/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Mobel28/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -261,4 +263,8 @@
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mobel28/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Mobel28/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
