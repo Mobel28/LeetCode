@@ -151,6 +151,7 @@
 | [0070-climbing-stairs](https://github.com/Mobel28/LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Mobel28/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mobel28/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Mobel28/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mobel28/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
@@ -273,6 +274,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mobel28/LeetCode/tree/master/0070-climbing-stairs) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Mobel28/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Enumeration
 |  |
 | ------- |
