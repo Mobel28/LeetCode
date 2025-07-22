@@ -29,6 +29,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mobel28/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1580-shuffle-the-array](https://github.com/Mobel28/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1813-maximum-erasure-value](https://github.com/Mobel28/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mobel28/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mobel28/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mobel28/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -52,6 +53,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Mobel28/LeetCode/tree/master/0697-degree-of-an-array) |
 | [1500-count-largest-group](https://github.com/Mobel28/LeetCode/tree/master/1500-count-largest-group) |
+| [1813-maximum-erasure-value](https://github.com/Mobel28/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/Mobel28/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mobel28/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mobel28/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -204,6 +206,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1813-maximum-erasure-value](https://github.com/Mobel28/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/Mobel28/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mobel28/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mobel28/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
