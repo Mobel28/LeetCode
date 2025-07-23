@@ -86,6 +86,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mobel28/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Mobel28/LeetCode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Mobel28/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Mobel28/LeetCode/tree/master/0086-partition-list) |
@@ -103,6 +104,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mobel28/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Mobel28/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -163,6 +165,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mobel28/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Mobel28/LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Mobel28/LeetCode/tree/master/0119-pascals-triangle-ii) |
