@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mobel28/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mobel28/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Mobel28/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Mobel28/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/Mobel28/LeetCode/tree/master/0268-missing-number) |
@@ -108,6 +109,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mobel28/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Mobel28/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Mobel28/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0020-valid-parentheses) |
@@ -226,6 +228,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mobel28/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Mobel28/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1813-maximum-erasure-value](https://github.com/Mobel28/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/Mobel28/LeetCode/tree/master/1873-longest-nice-substring) |
