@@ -3,17 +3,13 @@ class Solution:
         letters=["","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"]
         if len(digits)==0:
             return []
-        if len(digits)==1:
-            char=letters[int(digits)]
-            base=[]
-            for ch in char:
-                base.append(ch)
-            return base 
-        fic=digits[0]
-        word=letters[int(fic)]
-        temp=self.letterCombinations(digits[1:])
-        ans=[]
-        for c in word:
-            for sub in temp:
-                ans.append(c+sub)
-        return ans
+        sol=[]
+        def kpc(digits,ans):
+            if len(digits)==0:
+                sol.append(ans)
+                return
+            word=letters[int(digits[0])]
+            for ch in word:
+                kpc(digits[1:],ans+ch)
+        kpc(digits,"")
+        return sol
