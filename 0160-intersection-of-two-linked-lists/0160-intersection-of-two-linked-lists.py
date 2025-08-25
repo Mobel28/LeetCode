@@ -6,6 +6,8 @@
 
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
+        if not headA or not headB:
+            return
         t1=headA
         t2=headB
         while t1!=t2:
