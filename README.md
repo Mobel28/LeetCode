@@ -118,6 +118,7 @@
 | [0455-assign-cookies](https://github.com/Mobel28/LeetCode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0874-backspace-string-compare](https://github.com/Mobel28/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mobel28/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -136,6 +137,7 @@
 | [0076-minimum-window-substring](https://github.com/Mobel28/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/Mobel28/LeetCode/tree/master/0837-most-common-word) |
+| [0874-backspace-string-compare](https://github.com/Mobel28/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mobel28/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mobel28/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1666-make-the-string-great](https://github.com/Mobel28/LeetCode/tree/master/1666-make-the-string-great) |
@@ -155,6 +157,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Mobel28/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/Mobel28/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1666-make-the-string-great](https://github.com/Mobel28/LeetCode/tree/master/1666-make-the-string-great) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -165,6 +168,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Mobel28/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Mobel28/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/Mobel28/LeetCode/tree/master/1048-clumsy-factorial) |
 | [2470-removing-stars-from-a-string](https://github.com/Mobel28/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/Mobel28/LeetCode/tree/master/2479-meeting-rooms-iii) |
