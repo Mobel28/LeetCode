@@ -145,6 +145,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Mobel28/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3396-valid-word](https://github.com/Mobel28/LeetCode/tree/master/3396-valid-word) |
+| [3447-clear-digits](https://github.com/Mobel28/LeetCode/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/Mobel28/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mobel28/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mobel28/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -163,6 +164,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Mobel28/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/Mobel28/LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [1048-clumsy-factorial](https://github.com/Mobel28/LeetCode/tree/master/1048-clumsy-factorial) |
 | [2470-removing-stars-from-a-string](https://github.com/Mobel28/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/Mobel28/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [3447-clear-digits](https://github.com/Mobel28/LeetCode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mobel28/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
