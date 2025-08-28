@@ -166,6 +166,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mobel28/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Mobel28/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Mobel28/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mobel28/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
@@ -272,6 +273,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mobel28/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Mobel28/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mobel28/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Sliding Window
@@ -382,6 +384,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mobel28/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Mobel28/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mobel28/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
 |  |
