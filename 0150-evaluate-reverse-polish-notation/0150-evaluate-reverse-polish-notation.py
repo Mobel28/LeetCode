@@ -2,7 +2,7 @@ class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
         stack=[]
         for i in tokens:
-            if i not in{'+','-','*','/'}:
+            if i[-1].isdigit():
                 stack.append(int(i))
             else:
                 if len(stack)>=2:
