@@ -1,13 +1,12 @@
 class Solution:
     def minOperations(self, logs: List[str]) -> int:
-        stack=[]
         count=0
         for i in logs:
             if i=="../":
-                if stack:
-                    stack.pop()
+                if count!=0:
+                    count-=1
             elif i=='./':
                 continue
             else:
-                stack.append(i[:-1])
-        return len(stack)
+                count+=1
+        return count
