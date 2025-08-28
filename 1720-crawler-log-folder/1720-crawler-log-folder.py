@@ -5,8 +5,6 @@ class Solution:
             if i=="../":
                 if count!=0:
                     count-=1
-            elif i=='./':
-                continue
-            else:
+            elif i!='./':
                 count+=1
         return count
