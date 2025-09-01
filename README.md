@@ -163,6 +163,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mobel28/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mobel28/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Mobel28/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -332,6 +333,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mobel28/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Mobel28/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -339,6 +341,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mobel28/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Mobel28/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -352,6 +355,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mobel28/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Mobel28/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
