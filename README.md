@@ -376,6 +376,7 @@
 | [0547-number-of-provinces](https://github.com/Mobel28/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0801-is-graph-bipartite](https://github.com/Mobel28/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Mobel28/LeetCode/tree/master/0922-possible-bipartition) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mobel28/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mobel28/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -415,6 +416,7 @@
 | [0547-number-of-provinces](https://github.com/Mobel28/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0801-is-graph-bipartite](https://github.com/Mobel28/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Mobel28/LeetCode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mobel28/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
@@ -462,11 +464,13 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mobel28/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Mobel28/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Mobel28/LeetCode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mobel28/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mobel28/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Mobel28/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Mobel28/LeetCode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mobel28/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
