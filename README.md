@@ -475,5 +475,6 @@
 | [0801-is-graph-bipartite](https://github.com/Mobel28/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/Mobel28/LeetCode/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/Mobel28/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/Mobel28/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mobel28/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
