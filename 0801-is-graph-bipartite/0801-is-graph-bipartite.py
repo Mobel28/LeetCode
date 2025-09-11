@@ -1,12 +1,12 @@
 from collections import deque
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
-        n = len(graph)
-        color = [-1] * n  
-        for node in range(n):
-            if color[node] == -1: 
-                color[node] = 0
-                queue = deque([node])
+        color=[-1]*len(graph)
+        for curr in range(len(graph)):
+            if color[curr]==-1:
+                color[curr]=0
+                visit=set()
+                queue=deque([curr])
                 while queue:
                     curr = queue.popleft()
                     for neighbor in graph[curr]:
