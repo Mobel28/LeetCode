@@ -14,18 +14,15 @@ class Solution:
             else:
                 d[e]=[]
                 d[e].append(v)
-        def bfs(dict,sou,des):
-            visit=set()
-            queue=[sou]
-            visit.add(sou)
+        visit=set()
+        def bfs(source,dict,dest):
+            queue=[source]
+            visit.add(source)
             while queue:
                 node=queue.pop(0)
-                for i in dict[node]:
+                for i in d[node]:
                     if i not in visit:
                         visit.add(i)
                         queue.append(i)
-            if des in visit:
-                return True
-            else:
-                return False
-        return bfs(d,source,destination)
+            return dest in visit   
+        return bfs(source,d,destination)        
