@@ -21,6 +21,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mobel28/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mobel28/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mobel28/LeetCode/tree/master/0162-find-peak-element) |
+| [0174-dungeon-game](https://github.com/Mobel28/LeetCode/tree/master/0174-dungeon-game) |
 | [0268-missing-number](https://github.com/Mobel28/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mobel28/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mobel28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Mobel28/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Mobel28/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0174-dungeon-game](https://github.com/Mobel28/LeetCode/tree/master/0174-dungeon-game) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mobel28/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
@@ -242,6 +244,7 @@
 | [0070-climbing-stairs](https://github.com/Mobel28/LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Mobel28/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mobel28/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0174-dungeon-game](https://github.com/Mobel28/LeetCode/tree/master/0174-dungeon-game) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mobel28/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Mobel28/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mobel28/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
