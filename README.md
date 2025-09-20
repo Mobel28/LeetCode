@@ -58,6 +58,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Mobel28/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mobel28/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mobel28/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3827-implement-router](https://github.com/Mobel28/LeetCode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mobel28/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Mobel28/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mobel28/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3827-implement-router](https://github.com/Mobel28/LeetCode/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mobel28/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Mobel28/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3827-implement-router](https://github.com/Mobel28/LeetCode/tree/master/3827-implement-router) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -305,6 +308,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Mobel28/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mobel28/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3827-implement-router](https://github.com/Mobel28/LeetCode/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -469,6 +473,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Mobel28/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mobel28/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mobel28/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3827-implement-router](https://github.com/Mobel28/LeetCode/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -509,4 +514,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Mobel28/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Ordered Set
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Mobel28/LeetCode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
