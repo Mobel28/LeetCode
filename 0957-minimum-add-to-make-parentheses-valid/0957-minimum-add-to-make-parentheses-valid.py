@@ -7,11 +7,8 @@ class Solution:
                 stack.append(i)
                 print(stack)
             else:
-                if stack:
+                if stack and stack[-1]=='(':
                     stack.pop()
                 else:
-                    c+=1
-        if not stack:
-            return c
-        else:
-            return len(stack)+c
+                    stack.append(i)
+        return len(stack)+c
