@@ -40,6 +40,7 @@
 | [0837-most-common-word](https://github.com/Mobel28/LeetCode/tree/master/0837-most-common-word) |
 | [0968-beautiful-array](https://github.com/Mobel28/LeetCode/tree/master/0968-beautiful-array) |
 | [1039-find-the-town-judge](https://github.com/Mobel28/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Mobel28/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mobel28/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mobel28/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mobel28/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -204,6 +205,7 @@
 | [0874-backspace-string-compare](https://github.com/Mobel28/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mobel28/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1048-clumsy-factorial](https://github.com/Mobel28/LeetCode/tree/master/1048-clumsy-factorial) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Mobel28/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Mobel28/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Mobel28/LeetCode/tree/master/1666-make-the-string-great) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -250,6 +252,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Mobel28/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Mobel28/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Mobel28/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Dynamic Programming
 |  |
@@ -368,6 +371,7 @@
 | [0328-odd-even-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Mobel28/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mobel28/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mobel28/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
