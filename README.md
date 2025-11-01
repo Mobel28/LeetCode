@@ -66,6 +66,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Mobel28/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mobel28/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Mobel28/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mobel28/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mobel28/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mobel28/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mobel28/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -102,6 +103,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mobel28/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Mobel28/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mobel28/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mobel28/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mobel28/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mobel28/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3827-implement-router](https://github.com/Mobel28/LeetCode/tree/master/3827-implement-router) |
@@ -400,6 +402,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/Mobel28/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mobel28/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Mobel28/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mobel28/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
