@@ -94,6 +94,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mobel28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mobel28/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Mobel28/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Mobel28/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Mobel28/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -199,6 +200,7 @@
 | [0165-compare-version-numbers](https://github.com/Mobel28/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0316-remove-duplicate-letters](https://github.com/Mobel28/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Mobel28/LeetCode/tree/master/0389-find-the-difference) |
 | [0837-most-common-word](https://github.com/Mobel28/LeetCode/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/Mobel28/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mobel28/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -328,6 +330,7 @@
 | [0268-missing-number](https://github.com/Mobel28/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mobel28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mobel28/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Mobel28/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mobel28/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mobel28/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Mobel28/LeetCode/tree/master/0506-relative-ranks) |
@@ -345,6 +348,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Mobel28/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mobel28/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mobel28/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Mobel28/LeetCode/tree/master/0389-find-the-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mobel28/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mobel28/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1873-longest-nice-substring](https://github.com/Mobel28/LeetCode/tree/master/1873-longest-nice-substring) |
