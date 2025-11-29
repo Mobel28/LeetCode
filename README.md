@@ -72,6 +72,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Mobel28/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mobel28/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mobel28/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mobel28/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mobel28/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -138,6 +139,7 @@
 | [1048-clumsy-factorial](https://github.com/Mobel28/LeetCode/tree/master/1048-clumsy-factorial) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mobel28/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/Mobel28/LeetCode/tree/master/1500-count-largest-group) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mobel28/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mobel28/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mobel28/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
