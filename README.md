@@ -54,6 +54,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mobel28/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mobel28/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1580-shuffle-the-array](https://github.com/Mobel28/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/Mobel28/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Mobel28/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1813-maximum-erasure-value](https://github.com/Mobel28/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -104,6 +105,7 @@
 | [1039-find-the-town-judge](https://github.com/Mobel28/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mobel28/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/Mobel28/LeetCode/tree/master/1500-count-largest-group) |
+| [1590-make-sum-divisible-by-p](https://github.com/Mobel28/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/Mobel28/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/Mobel28/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mobel28/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -392,6 +394,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mobel28/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/Mobel28/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2915-count-of-interesting-subarrays](https://github.com/Mobel28/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mobel28/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
