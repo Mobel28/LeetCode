@@ -59,6 +59,7 @@
 | [1720-crawler-log-folder](https://github.com/Mobel28/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1813-maximum-erasure-value](https://github.com/Mobel28/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mobel28/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1920-build-array-from-permutation](https://github.com/Mobel28/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mobel28/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mobel28/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mobel28/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -261,6 +262,7 @@
 | [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Mobel28/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/Mobel28/LeetCode/tree/master/1048-clumsy-factorial) |
+| [1920-build-array-from-permutation](https://github.com/Mobel28/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mobel28/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2470-removing-stars-from-a-string](https://github.com/Mobel28/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/Mobel28/LeetCode/tree/master/2479-meeting-rooms-iii) |
