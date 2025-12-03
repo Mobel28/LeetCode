@@ -1,5 +1,6 @@
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
+        #Dutch National Flag
         low = 0
         mid = 0
         high = len(nums) - 1
