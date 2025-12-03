@@ -12,3 +12,5 @@ class Solution:
             else:
                 count-=1
         return elem
+        #SC=O(1)
+        #TC=O(N)
