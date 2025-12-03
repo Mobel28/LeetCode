@@ -30,6 +30,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mobel28/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mobel28/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Mobel28/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Mobel28/LeetCode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/Mobel28/LeetCode/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mobel28/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Mobel28/LeetCode/tree/master/0268-missing-number) |
@@ -98,6 +99,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Mobel28/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Mobel28/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mobel28/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Mobel28/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mobel28/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mobel28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mobel28/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -347,6 +349,7 @@
 | [0088-merge-sorted-array](https://github.com/Mobel28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Mobel28/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Mobel28/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Mobel28/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mobel28/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mobel28/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mobel28/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -378,6 +381,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mobel28/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/Mobel28/LeetCode/tree/master/0837-most-common-word) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mobel28/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -549,6 +553,7 @@
 | [0053-maximum-subarray](https://github.com/Mobel28/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Mobel28/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Mobel28/LeetCode/tree/master/0169-majority-element) |
 | [0968-beautiful-array](https://github.com/Mobel28/LeetCode/tree/master/0968-beautiful-array) |
 | [1873-longest-nice-substring](https://github.com/Mobel28/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Merge Sort
