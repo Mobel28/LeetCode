@@ -1,10 +1,14 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        has={}
+        #Moore Voting 
+        elem=0
+        count=0
         for i in nums:
-            has[i]=has.get(i,0)+1
-        for key,val in has.items():
-            if val>len(nums)/2:
-                return key
-        return -1
-        #TC=O(N)
+            if count==0:
+                elem=i
+                count+=1
+            elif i==elem:
+                count+=1
+            else:
+                count-=1
+        return elem
