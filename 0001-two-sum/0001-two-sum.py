@@ -1,10 +1,11 @@
 class Solution(object):
     def twoSum(self, nums, target):
-      dict={}
-      for i in range(len(nums)):
-        num=nums[i]
-        rem=target-num
-        if rem in dict:
-            return [dict[rem],i]
-        dict[num]=i
-        
+        for i in range(len(nums)):
+            for j in range(len(nums)):
+                if i==j:
+                    continue
+                else:
+                    if nums[i]+nums[j]==target:
+                        return i,j
+        # TC=O(N^2)
+        # SC=O(1)
