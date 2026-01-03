@@ -335,6 +335,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mobel28/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Mobel28/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Mobel28/LeetCode/tree/master/0174-dungeon-game) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mobel28/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mobel28/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Mobel28/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mobel28/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
