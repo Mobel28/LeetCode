@@ -22,6 +22,7 @@
 | [0066-plus-one](https://github.com/Mobel28/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Mobel28/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mobel28/LeetCode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Mobel28/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Mobel28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mobel28/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Mobel28/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -175,6 +176,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Mobel28/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Mobel28/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Mobel28/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Mobel28/LeetCode/tree/master/0174-dungeon-game) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mobel28/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Mobel28/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -263,6 +265,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Mobel28/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mobel28/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mobel28/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -329,6 +332,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Mobel28/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Mobel28/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Mobel28/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Mobel28/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -340,6 +344,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Mobel28/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mobel28/LeetCode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Mobel28/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mobel28/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mobel28/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mobel28/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
