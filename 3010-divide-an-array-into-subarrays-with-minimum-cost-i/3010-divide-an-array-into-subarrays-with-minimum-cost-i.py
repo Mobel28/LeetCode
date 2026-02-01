@@ -9,3 +9,5 @@ class Solution:
             elif nums[i]<=min2:
                 min2=nums[i]
         return nums[0]+min1+min2
+        #TC=O(n)
+        #SC=O(1)
