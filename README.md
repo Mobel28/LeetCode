@@ -89,6 +89,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mobel28/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mobel28/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Mobel28/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3379-transformed-array](https://github.com/Mobel28/LeetCode/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mobel28/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mobel28/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -307,6 +308,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mobel28/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2470-removing-stars-from-a-string](https://github.com/Mobel28/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/Mobel28/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [3379-transformed-array](https://github.com/Mobel28/LeetCode/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Mobel28/LeetCode/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mobel28/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mobel28/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
