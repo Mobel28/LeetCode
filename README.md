@@ -63,6 +63,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mobel28/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mobel28/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mobel28/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mobel28/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1580-shuffle-the-array](https://github.com/Mobel28/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Mobel28/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -186,6 +187,7 @@
 | [0085-maximal-rectangle](https://github.com/Mobel28/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Mobel28/LeetCode/tree/master/0174-dungeon-game) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mobel28/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mobel28/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Mobel28/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mobel28/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Two Pointers
@@ -379,6 +381,7 @@
 | [0561-array-partition](https://github.com/Mobel28/LeetCode/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mobel28/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mobel28/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mobel28/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Mobel28/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mobel28/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Mobel28/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
