@@ -1,3 +1,13 @@
 class Solution:
     def checkOnesSegment(self, s: str) -> bool:
-        return '01' not in s.strip('0')
+        seen_one=False
+        segment_ended=False
+        for ch in s:
+            if ch=='1':
+                if segment_ended:
+                    return False
+                seen_one=True
+            else:
+                if seen_one:
+                    segment_ended=True
+        return True
