@@ -251,6 +251,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mobel28/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Mobel28/LeetCode/tree/master/0392-is-subsequence) |
+| [0482-license-key-formatting](https://github.com/Mobel28/LeetCode/tree/master/0482-license-key-formatting) |
 | [0696-count-binary-substrings](https://github.com/Mobel28/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0837-most-common-word](https://github.com/Mobel28/LeetCode/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/Mobel28/LeetCode/tree/master/0874-backspace-string-compare) |
