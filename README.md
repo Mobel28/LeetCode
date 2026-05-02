@@ -168,6 +168,7 @@
 | [0268-missing-number](https://github.com/Mobel28/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Mobel28/LeetCode/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/Mobel28/LeetCode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Mobel28/LeetCode/tree/master/0788-rotated-digits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mobel28/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0968-beautiful-array](https://github.com/Mobel28/LeetCode/tree/master/0968-beautiful-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -373,6 +374,7 @@
 | [0174-dungeon-game](https://github.com/Mobel28/LeetCode/tree/master/0174-dungeon-game) |
 | [0392-is-subsequence](https://github.com/Mobel28/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Mobel28/LeetCode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Mobel28/LeetCode/tree/master/0788-rotated-digits) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mobel28/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mobel28/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mobel28/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
