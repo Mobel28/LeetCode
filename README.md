@@ -256,6 +256,7 @@
 | [0392-is-subsequence](https://github.com/Mobel28/LeetCode/tree/master/0392-is-subsequence) |
 | [0482-license-key-formatting](https://github.com/Mobel28/LeetCode/tree/master/0482-license-key-formatting) |
 | [0696-count-binary-substrings](https://github.com/Mobel28/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/Mobel28/LeetCode/tree/master/0796-rotate-string) |
 | [0837-most-common-word](https://github.com/Mobel28/LeetCode/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/Mobel28/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mobel28/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -712,6 +713,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Mobel28/LeetCode/tree/master/0796-rotate-string) |
 ## Geometry
 |  |
 | ------- |
