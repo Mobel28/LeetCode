@@ -12,5 +12,5 @@ class Solution:
                 left+=1
 
         return res
-#TC=O(N^2)
+#TC=O(N)
 #SC=O(1)
