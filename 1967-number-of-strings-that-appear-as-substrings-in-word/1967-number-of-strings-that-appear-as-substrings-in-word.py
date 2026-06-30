@@ -11,8 +11,6 @@ class Solution:
                         count+=1
                         found=True
                         break
-                    else:
-                        continue
         return count
-    #TC=O(n^2)
-    #SC=O(1)
+#TC=O(N^3)
+#SC=O(1)
