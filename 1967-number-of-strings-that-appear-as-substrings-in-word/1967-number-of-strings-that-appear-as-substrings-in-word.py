@@ -12,5 +12,5 @@ class Solution:
                         found=True
                         break
         return count
-#TC=O(N^3)
+#TC=O(M*N^3)
 #SC=O(1)
