@@ -54,6 +54,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Mobel28/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Mobel28/LeetCode/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/Mobel28/LeetCode/tree/master/0837-most-common-word) |
+| [0860-lemonade-change](https://github.com/Mobel28/LeetCode/tree/master/0860-lemonade-change) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mobel28/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0968-beautiful-array](https://github.com/Mobel28/LeetCode/tree/master/0968-beautiful-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mobel28/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -396,6 +397,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Mobel28/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Mobel28/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Mobel28/LeetCode/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/Mobel28/LeetCode/tree/master/0860-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mobel28/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mobel28/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mobel28/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
