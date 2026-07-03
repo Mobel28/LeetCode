@@ -135,6 +135,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mobel28/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Mobel28/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1189-maximum-number-of-balloons](https://github.com/Mobel28/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mobel28/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mobel28/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mobel28/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -268,6 +269,7 @@
 | [0874-backspace-string-compare](https://github.com/Mobel28/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mobel28/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Mobel28/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/Mobel28/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mobel28/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mobel28/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mobel28/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -456,6 +458,7 @@
 | [0169-majority-element](https://github.com/Mobel28/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/Mobel28/LeetCode/tree/master/0837-most-common-word) |
+| [1189-maximum-number-of-balloons](https://github.com/Mobel28/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mobel28/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mobel28/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mobel28/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
