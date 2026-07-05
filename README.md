@@ -64,6 +64,7 @@
 | [1039-find-the-town-judge](https://github.com/Mobel28/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Mobel28/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mobel28/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mobel28/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mobel28/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1390-four-divisors](https://github.com/Mobel28/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mobel28/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -202,6 +203,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Mobel28/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Mobel28/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Mobel28/LeetCode/tree/master/0174-dungeon-game) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mobel28/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mobel28/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mobel28/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mobel28/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -395,6 +397,7 @@
 | [0392-is-subsequence](https://github.com/Mobel28/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Mobel28/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Mobel28/LeetCode/tree/master/0788-rotated-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mobel28/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mobel28/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mobel28/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mobel28/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
