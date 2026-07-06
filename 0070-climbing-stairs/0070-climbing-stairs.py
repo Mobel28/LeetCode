@@ -1,6 +1,12 @@
 class Solution:
-    @lru_cache(None)
     def climbStairs(self, n: int) -> int:
-        if n==1 or n==0:
-            return 1
-        return self.climbStairs(n-1)+self.climbStairs(n-2)
+        dp=[-1 for _ in range(n)]
+        def solve(i):
+            if i==1 or i==0:
+                return 1
+            if dp[i-1]!=-1:
+                return dp[i-1]
+            
+            dp[i-1]=solve(i-1)+solve(i-2)
+            return dp[i-1]
+        return solve(n)
