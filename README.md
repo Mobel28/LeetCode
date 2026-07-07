@@ -196,6 +196,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mobel28/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mobel28/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mobel28/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mobel28/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/Mobel28/LeetCode/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
