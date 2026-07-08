@@ -198,6 +198,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mobel28/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mobel28/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mobel28/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mobel28/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3830-find-closest-person](https://github.com/Mobel28/LeetCode/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
@@ -304,6 +305,7 @@
 | [3617-find-the-original-typed-string-i](https://github.com/Mobel28/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mobel28/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mobel28/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mobel28/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mobel28/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
@@ -511,6 +513,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Mobel28/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Mobel28/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mobel28/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mobel28/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
 |  |
