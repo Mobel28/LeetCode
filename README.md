@@ -684,6 +684,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Mobel28/LeetCode/tree/master/1291-sequential-digits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mobel28/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mobel28/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Design
