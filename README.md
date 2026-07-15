@@ -151,6 +151,7 @@
 | [1500-count-largest-group](https://github.com/Mobel28/LeetCode/tree/master/1500-count-largest-group) |
 | [1590-make-sum-divisible-by-p](https://github.com/Mobel28/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/Mobel28/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Mobel28/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1873-longest-nice-substring](https://github.com/Mobel28/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mobel28/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mobel28/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -299,6 +300,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mobel28/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mobel28/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Mobel28/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Mobel28/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1873-longest-nice-substring](https://github.com/Mobel28/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mobel28/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mobel28/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
