@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/Mobel28/LeetCode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Mobel28/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Mobel28/LeetCode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Mobel28/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Mobel28/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Mobel28/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Mobel28/LeetCode/tree/master/0053-maximum-subarray) |
@@ -404,6 +405,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Mobel28/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mobel28/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Mobel28/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Mobel28/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mobel28/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Mobel28/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -430,6 +432,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mobel28/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Mobel28/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mobel28/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Mobel28/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Mobel28/LeetCode/tree/master/0455-assign-cookies) |
