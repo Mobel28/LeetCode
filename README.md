@@ -199,6 +199,7 @@
 | [1390-four-divisors](https://github.com/Mobel28/LeetCode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mobel28/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/Mobel28/LeetCode/tree/master/1500-count-largest-group) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mobel28/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mobel28/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mobel28/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -311,6 +312,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Mobel28/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Mobel28/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/Mobel28/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mobel28/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3396-valid-word](https://github.com/Mobel28/LeetCode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/Mobel28/LeetCode/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/Mobel28/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -446,6 +448,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Mobel28/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mobel28/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Mobel28/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mobel28/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mobel28/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
