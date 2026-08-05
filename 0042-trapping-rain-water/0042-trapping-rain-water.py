@@ -16,4 +16,5 @@ class Solution:
             if height[i]<leftMax[i] and height[i]<rightMax[i]:
                 res+=min(leftMax[i],rightMax[i])-height[i]
         return res
-        # return 0
+        # TC=O(3N)->O(N)
+        # SC=O(2N)->O(N)
