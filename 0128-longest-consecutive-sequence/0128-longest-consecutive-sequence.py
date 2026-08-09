@@ -20,3 +20,5 @@ class Solution:
             tmin=i
         return max(res,longest)
 
+    #TC=O(nlogn)
+    #SC=O(N)
