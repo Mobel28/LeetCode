@@ -2,12 +2,12 @@ class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         if not nums:
             return 0
-        temp=sorted(nums)
+        nums.sort()
         res=1
         longest=1
-        tmin=temp[0]
+        tmin=nums[0]
 
-        for i in temp:
+        for i in nums:
             if i==tmin:
                 continue
             
@@ -21,4 +21,4 @@ class Solution:
         return max(res,longest)
 
     #TC=O(nlogn)
-    #SC=O(N)
+    #SC=O(1)
