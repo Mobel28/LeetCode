@@ -19,4 +19,7 @@ class Solution:
             dummy.next=ListNode(s%10)
             c=s//10
             dummy=dummy.next
+
         return res.next
+            
+            
