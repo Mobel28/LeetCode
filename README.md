@@ -122,6 +122,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mobel28/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3827-implement-router](https://github.com/Mobel28/LeetCode/tree/master/3827-implement-router) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mobel28/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Mobel28/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -556,6 +557,7 @@
 | [3618-find-the-original-typed-string-ii](https://github.com/Mobel28/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mobel28/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Mobel28/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Mobel28/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Monotonic Queue
 |  |
 | ------- |
