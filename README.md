@@ -118,6 +118,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mobel28/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-network-recovery-pathways](https://github.com/Mobel28/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3668-restore-finishing-order](https://github.com/Mobel28/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mobel28/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mobel28/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mobel28/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3827-implement-router](https://github.com/Mobel28/LeetCode/tree/master/3827-implement-router) |
@@ -178,6 +179,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mobel28/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mobel28/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3668-restore-finishing-order](https://github.com/Mobel28/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mobel28/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mobel28/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3827-implement-router](https://github.com/Mobel28/LeetCode/tree/master/3827-implement-router) |
 ## Math
