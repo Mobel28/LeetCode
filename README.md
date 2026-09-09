@@ -224,6 +224,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mobel28/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3830-find-closest-person](https://github.com/Mobel28/LeetCode/tree/master/3830-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/Mobel28/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Mobel28/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mobel28/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
