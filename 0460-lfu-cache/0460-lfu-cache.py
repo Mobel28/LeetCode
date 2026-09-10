@@ -16,12 +16,7 @@ class LFUCache:
         self.freq={}
         self.curr=0
         self.keyValue={}
-
-    def get(self, key: int) -> int:
-        if key not in self.keyValue:
-            return -1
-        node=self.keyValue[key]
-        temp=self.freq[node.freq]
+    def freqUpdate(self,node,temp):
         if temp.head==node and temp.tail==node:
             temp.head=None
             temp.tail=None
@@ -50,6 +45,12 @@ class LFUCache:
             node.next=table.head
             table.head.prev=node
             table.head=node
+    def get(self, key: int) -> int:
+        if key not in self.keyValue:
+            return -1
+        node=self.keyValue[key]
+        temp=self.freq[node.freq]
+        self.freqUpdate(node,temp)
         return node.val
 
     def put(self, key: int, value: int) -> None:
@@ -57,36 +58,7 @@ class LFUCache:
             node=self.keyValue[key]
             temp=self.freq[node.freq]
             node.val=value
-            if temp.head==node and temp.tail==node:
-                temp.head=None
-                temp.tail=None
-
-            elif temp.head==node:
-                temp.head=node.next
-                temp.head.prev=None
-            elif temp.tail==node:
-                temp.tail=node.prev
-                temp.tail.next=None
-            else:
-                node.next.prev=node.prev
-                node.prev.next=node.next
-            if temp.head is None and node.freq==self.curr:
-                self.curr+=1
-                del self.freq[node.freq]
-            elif temp.head is None:
-                del self.freq[node.freq]
-            node.freq+=1
-            if node.freq not in self.freq:
-                self.freq[node.freq]=FreqTable()
-            table=self.freq[node.freq]
-            node.prev=None
-            node.next=table.head
-            if table.head is None:
-                table.head=node
-                table.tail=node
-            else:
-                table.head.prev=node
-                table.head=node
+            self.freqUpdate(node,temp)
             return
         node=LinkedList(key,value) 
         if len(self.keyValue)==self.capacity:
