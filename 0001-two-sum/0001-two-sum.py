@@ -2,11 +2,8 @@ class Solution(object):
     def twoSum(self, nums, target):
         rem={}
         for i in range(len(nums)):
-            num=target-nums[i]
-            # print(num,rem)
-            if num in rem:
-                return [rem[num],i]
-            
-            rem[nums[i]]=i
-        
-        
+            if nums[i] in rem:
+                return rem[nums[i]],i 
+            req=target-nums[i]
+            rem[req]=i
+                   
