@@ -149,6 +149,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mobel28/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mobel28/LeetCode/tree/master/0389-find-the-difference) |
+| [0460-lfu-cache](https://github.com/Mobel28/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Mobel28/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Mobel28/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -594,6 +595,7 @@
 | [0234-palindrome-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/Mobel28/LeetCode/tree/master/0460-lfu-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Mobel28/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Mobel28/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -748,6 +750,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Mobel28/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Mobel28/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mobel28/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Mobel28/LeetCode/tree/master/0460-lfu-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mobel28/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3827-implement-router](https://github.com/Mobel28/LeetCode/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
@@ -828,6 +831,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Mobel28/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Mobel28/LeetCode/tree/master/0460-lfu-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mobel28/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Rolling Hash
 |  |
