@@ -638,6 +638,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mobel28/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mobel28/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mobel28/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mobel28/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -662,6 +663,7 @@
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mobel28/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mobel28/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mobel28/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mobel28/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -693,6 +695,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mobel28/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mobel28/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Mobel28/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mobel28/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
