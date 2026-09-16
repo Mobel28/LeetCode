@@ -885,4 +885,12 @@
 | ------- |
 | [0051-n-queens](https://github.com/Mobel28/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Mobel28/LeetCode/tree/master/0052-n-queens-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mobel28/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mobel28/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
