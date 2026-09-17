@@ -11,7 +11,7 @@ class Solution:
                 l+=1
             temp+=nums[r]
             tempMap[nums[r]]=1
-            if r-l+1==k:
+            if len(tempMap)==k:
                 maxSum=max(maxSum,temp)
                 del tempMap[nums[l]]
                 temp-=nums[l]
