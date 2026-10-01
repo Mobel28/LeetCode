@@ -70,6 +70,7 @@
 | [0860-lemonade-change](https://github.com/Mobel28/LeetCode/tree/master/0860-lemonade-change) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mobel28/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0968-beautiful-array](https://github.com/Mobel28/LeetCode/tree/master/0968-beautiful-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mobel28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mobel28/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mobel28/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1039-find-the-town-judge](https://github.com/Mobel28/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -163,6 +164,7 @@
 | [0837-most-common-word](https://github.com/Mobel28/LeetCode/tree/master/0837-most-common-word) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mobel28/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mobel28/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mobel28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Mobel28/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Mobel28/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -540,6 +542,7 @@
 | [0169-majority-element](https://github.com/Mobel28/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mobel28/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/Mobel28/LeetCode/tree/master/0837-most-common-word) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mobel28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Mobel28/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mobel28/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mobel28/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -562,6 +565,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mobel28/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mobel28/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Mobel28/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mobel28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mobel28/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mobel28/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Mobel28/LeetCode/tree/master/1813-maximum-erasure-value) |
