@@ -91,6 +91,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/Mobel28/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mobel28/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Mobel28/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mobel28/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mobel28/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/Mobel28/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mobel28/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -473,6 +474,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Mobel28/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mobel28/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mobel28/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mobel28/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mobel28/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Mobel28/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mobel28/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
