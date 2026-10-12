@@ -74,6 +74,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Mobel28/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mobel28/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0968-beautiful-array](https://github.com/Mobel28/LeetCode/tree/master/0968-beautiful-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mobel28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mobel28/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mobel28/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -172,6 +173,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mobel28/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/Mobel28/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mobel28/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mobel28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Mobel28/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -596,6 +598,7 @@
 | [0238-product-of-array-except-self](https://github.com/Mobel28/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Mobel28/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Mobel28/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mobel28/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Mobel28/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Mobel28/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
