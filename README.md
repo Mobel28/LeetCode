@@ -59,6 +59,7 @@
 | [0485-max-consecutive-ones](https://github.com/Mobel28/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Mobel28/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Mobel28/LeetCode/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/Mobel28/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mobel28/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Mobel28/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Mobel28/LeetCode/tree/master/0682-baseball-game) |
@@ -166,6 +167,7 @@
 | [0389-find-the-difference](https://github.com/Mobel28/LeetCode/tree/master/0389-find-the-difference) |
 | [0460-lfu-cache](https://github.com/Mobel28/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Mobel28/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Mobel28/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mobel28/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mobel28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Mobel28/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -226,6 +228,7 @@
 | [0326-power-of-three](https://github.com/Mobel28/LeetCode/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/Mobel28/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Mobel28/LeetCode/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Mobel28/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/Mobel28/LeetCode/tree/master/0788-rotated-digits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mobel28/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/Mobel28/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -596,6 +599,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mobel28/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Mobel28/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Mobel28/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mobel28/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Mobel28/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mobel28/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -930,4 +934,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mobel28/LeetCode/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Mobel28/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
