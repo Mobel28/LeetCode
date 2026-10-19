@@ -947,4 +947,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Mobel28/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mobel28/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
