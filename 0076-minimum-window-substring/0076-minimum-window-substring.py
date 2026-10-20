@@ -1,34 +1,24 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        # i=0
-        # j=0
-        # res=""
-        # while j<len(t) and i<len(s):
-        #     res+=s[i]
-
-        #     if s[i]==t[j]:
-        #         j+=1
-        #     i+=1
-        need={}
+        req={}
         for i in t:
-            need[i]=need.get(i,0)+1
-        left=0
-        formed=0
-        req=len(need)
-        start=0
+            req[i]=req.get(i,0)+1
+        l=0
         window={}
+        formed=0
+        start=0
         minVal=float('inf')
-        for right in range(len(s)):
-            window[s[right]]=window.get(s[right],0)+1
-            if s[right] in need and window[s[right]]==need[s[right]]:
+        for r in range(len(s)):
+            window[s[r]]=window.get(s[r],0)+1
+            if s[r] in req and window[s[r]]==req[s[r]]:
                 formed+=1
-            while formed==req:
-                    if (right-left)+1<minVal:
-                        minVal=(right-left)+1
-                        start=left
-                    if s[left] in need and need[s[left]]==window[s[left]]:
-                        formed-=1
-                    window[s[left]]-=1
-                    left+=1
-    
-        return "" if minVal==float('inf') else s[start:start+minVal]
+            while formed==len(req):
+                if r-l+1<minVal:
+                    minVal=r-l+1
+                    start=l
+                if s[l] in req and req[s[l]]==window[s[l]]:
+                    formed-=1
+                window[s[l]]-=1
+                l+=1
+        return "" if minVal==float(inf) else s[start:start+minVal]
+
