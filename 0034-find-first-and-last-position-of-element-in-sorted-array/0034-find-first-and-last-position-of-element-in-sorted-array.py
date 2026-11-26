@@ -1,31 +1,30 @@
 class Solution:
-    def searchRange(self, nums: List[int], target: int) -> List[int]:
-        def ffind(nums,tar):
-            l=0
-            r=len(nums)-1
+    def searchRange(self, nums: list[int], target: int) -> list[int]:
+        
+        def firstidx():
+            l,r=0,len(nums)-1
             res=-1
             while l<=r:
-                m=l+(r-l)//2
-                if nums[m]==tar:
-                    res=m
-                    r=m-1
-                elif nums[m]<=tar:
-                    l=m+1
+                mid=(l+r)//2
+                if nums[mid]==target:
+                    res=mid
+                    r=mid-1
+                elif nums[mid]<target:
+                    l=mid+1
                 else:
-                    r=m-1
+                    r=mid-1
             return res
-        def lfind(nums,tar):
-            l=0
-            r=len(nums)-1
+        def lastidx():
+            l,r=0,len(nums)-1
             res=-1
             while l<=r:
-                m=l+(r-l)//2
-                if nums[m]==tar:
-                    res=m
-                    l=m+1
-                elif nums[m]<tar:
-                    l=m+1
+                mid=(l+r)//2
+                if nums[mid]==target:
+                    l=mid+1
+                    res=mid
+                elif nums[mid]<target:
+                    l=mid+1
                 else:
-                    r=m-1
+                    r=mid-1
             return res
-        return [ffind(nums,target),lfind(nums,target)]
+        return [firstidx(),lastidx()]
